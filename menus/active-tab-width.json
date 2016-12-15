@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle active-tab-width",
+        "command": "active-tab-width:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "active-tab-width",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "active-tab-width:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
