@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "active-tab-width",
+          "label": "Active Tab Width",
           "submenu": [
             {
               "label": "Toggle",
