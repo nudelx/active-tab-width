@@ -17,7 +17,16 @@
             {
               "label": "Toggle",
               "command": "active-tab-width:toggle"
+            },
+            {
+              "label": "Reset",
+              "command": "active-tab-width:reset"
+            },
+            {
+              "label": "Toggle Auto",
+              "command": "active-tab-width:toggleAuto"
             }
+
           ]
         }
       ]

@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "active-tab-width:toggle"
+    "ctrl-alt-o": "active-tab-width:toggle",
+    "ctrl-alt-r": "active-tab-width:reset",
+    "ctrl-alt-a": "active-tab-width:toggleAuto"
   }
 }
