@@ -4,9 +4,7 @@
 	"version": "0.1.1",
 	"description": "The plugin gives a way to automatically resize the currently selected (focused) tab to X% of the screen",
 	"keywords": ["atom", "tab", "tab-width", "width", "auto-width", "auto", "auto width"],
-	"activationCommands": {
-		"atom-workspace": "active-tab-width:toggle"
-	},
+
 	"bugs": "https://github.com/nudelx/active-tab-width/issues",
 	"repository": {
 		"type": "git",
