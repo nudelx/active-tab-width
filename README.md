@@ -1,4 +1,5 @@
-![apm](http://flight-manual.atom.io/assets/images/logo-small.png)
+![alt text][atom]
+[atom]:http://flight-manual.atom.io/assets/images/logo-small.png ""
 # active-tab-width plugin for Atom
 
 When you work in Atom with split layout, every time you should change the width for the current active tab. This plugin can do this job for you. Just define the percentage value of the width and let the plugin do it for you.
