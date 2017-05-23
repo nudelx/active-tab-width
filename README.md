@@ -1,4 +1,4 @@
-# active-tab-width package
+# active-tab-width atom plugin
 
 When you work in Atom with split layout every time you should change this width of the current active tab. This plugin can do it for you. I just just have to define percentage value of the width for your active tab and plugin will do it for you.
 
