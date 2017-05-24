@@ -1,7 +1,7 @@
 {
   "name": "active-tab-width",
   "main": "./lib/active-tab-width",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "The plugin gives a way to automatically resize the currently selected (focused) tab to X% of the screen",
   "keywords": [
     "atom",
